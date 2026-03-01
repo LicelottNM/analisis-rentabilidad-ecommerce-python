@@ -1,3 +1,5 @@
+![Dashboard](Dashboard.png)
+
 # Optimización de la Rentabilidad y Estrategia de Descuentos 📊
 
 Proyecto de Business Analytics desarrollado en **Python** para identificar impulsores de rentabilidad y evaluar la elasticidad de precios en un entorno eCommerce.
@@ -14,4 +16,5 @@ Proyecto de Business Analytics desarrollado en **Python** para identificar impul
 
 ## 📁 Archivos
 * `Analisis_Estrategico_Ventas.ipynb`: Notebook con el flujo completo de análisis.
+
 * `Business_Analytics_Dataset.csv`: Dataset utilizado para el estudio.
